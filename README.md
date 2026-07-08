@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:7F5AF0,100:30D158&height=220&section=header&text=Alexander%20Lim&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-first%20Software%20Engineer%20%7C%20System%20Architect%20%7C%20WordPress%20Expert&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0A84FF,50:7F5AF0,100:30D158&text=Alexander%20Lim&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI-first%20Software%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20WordPress%20Expert&descSize=18&descAlignY=62" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+websites.;AI-assisted+engineering+%E2%80%A2+WordPress+%E2%80%A2+Next.js+%E2%80%A2+Python;Turning+ideas+into+production-ready+products." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=0A84FF&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+websites.;AI-assisted+engineering+%E2%80%A2+WordPress+%E2%80%A2+Next.js+%E2%80%A2+Python;Turning+ideas+into+production-ready+products." />
 </p>
 
 <p align="center">
@@ -20,31 +20,31 @@
 
 ---
 
+## 👋 About Me
+
 <table>
 <tr>
-<td width="60%">
-
-## 👋 Hi, I'm Alexander Lim
+<td width="65%" valign="top">
 
 ### AI-first Software Engineer & System Architect
 
 I build scalable web platforms, automation systems and AI-powered products.
 
-My background combines **12+ years of commercial web development**, CMS architecture, business automation, frontend engineering and modern AI-assisted workflows.
+My background combines **12+ years of commercial web development**, CMS architecture, frontend engineering, business automation and modern AI-assisted workflows.
 
 I don’t just write code — I design systems, automate workflows and turn ideas into reliable products.
 
 </td>
-<td width="40%">
+<td width="35%" valign="top">
 
 ```txt
-╭──────────────────────────────╮
-│  Status: Available           │
-│  Location: Moscow / Remote   │
-│  Focus: Product Engineering  │
-│  Style: Apple-inspired UI    │
-│  Mindset: Build → Ship → Fix │
-╰──────────────────────────────╯
+╭────────────────────────────╮
+│ Status: Available          │
+│ Location: Moscow / Remote  │
+│ Focus: Product Engineering │
+│ Style: Apple-inspired UI   │
+│ Mindset: Build → Ship      │
+╰────────────────────────────╯
 ```
 
 </td>
@@ -58,49 +58,49 @@ I don’t just write code — I design systems, automate workflows and turn idea
 ### Frontend
 
 <p>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="42" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="42" /></a>
-  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="42" /></a>
-  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="42" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="46" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="46" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="46" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="46" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="46" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="46" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="46" /></a>
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="46" /></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="46" /></a>
 </p>
 
 ### Backend / Automation
 
 <p>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="42" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="42" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="42" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="42" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="42" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="46" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="46" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="46" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="46" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" height="46" /></a>
 </p>
 
 ### CMS / eCommerce
 
 <p>
-  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="42" /></a>
+  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="46" /></a>
   <a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" /></a>
-  <a href="https://www.1c-bitrix.ru/"><img src="https://img.shields.io/badge/1C--Bitrix-EA1B22?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.1c-bitrix.ru/"><img src="https://img.shields.io/badge/1C--Bitrix-EA1B22?style=for-the-badge" /></a>
   <a href="https://www.joomla.org/"><img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" /></a>
-  <a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF-00AEEF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-  <a href="https://polylang.pro/"><img src="https://img.shields.io/badge/Polylang-00AEEF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF-111111?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://polylang.pro/"><img src="https://img.shields.io/badge/Polylang-0A84FF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 ### DevOps / Tools / AI
 
 <p>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="42" /></a>
-  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="42" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="42" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" /></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="42" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="42" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="46" /></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="46" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="46" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="46" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="46" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="46" /></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://www.cursor.com/"><img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="https://www.cursor.com/"><img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -113,35 +113,31 @@ I don’t just write code — I design systems, automate workflows and turn idea
 
 ### 📰 Lenta Migration Platform
 
-Large-scale news migration platform.
+Large-scale news migration platform for WordPress.
 
-<ul>
-<li>Web crawler</li>
-<li>Parser and normalizer</li>
-<li>Image processing</li>
-<li>WordPress importer</li>
-<li>Polylang multilingual structure</li>
-<li>70,000+ articles target</li>
-</ul>
+- Web crawler
+- Parser and normalizer
+- Image processing
+- WordPress REST importer
+- Polylang multilingual structure
+- 70,000+ articles target
 
-<strong>Stack:</strong> Python · SQLite · WordPress · REST API · Polylang
+**Stack:** Python · SQLite · WordPress · REST API · Polylang
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 PromptBasa
 
-AI tools catalog and knowledge base.
+AI tools catalog and structured knowledge base.
 
-<ul>
-<li>Custom post types</li>
-<li>ACF-powered metadata</li>
-<li>SEO structure</li>
-<li>JSON-LD</li>
-<li>Tool pages, categories, comparisons</li>
-</ul>
+- Custom post types
+- ACF-powered metadata
+- SEO structure
+- JSON-LD
+- Tool pages, categories, comparisons
 
-<strong>Stack:</strong> WordPress · PHP · ACF · SEO · Custom Theme
+**Stack:** WordPress · PHP · ACF · SEO · Custom Theme
 
 </td>
 </tr>
@@ -151,17 +147,15 @@ AI tools catalog and knowledge base.
 
 ### 🎓 London Robotics School
 
-Landing page and CRM migration concept.
+Modern landing page and CRM migration concept.
 
-<ul>
-<li>Modern landing page</li>
-<li>Trial lesson funnel</li>
-<li>WhatsApp-first communication</li>
-<li>Analytics and conversion logic</li>
-<li>Mobile-first structure</li>
-</ul>
+- Trial lesson funnel
+- WhatsApp-first communication
+- Analytics and conversion logic
+- Mobile-first structure
+- Performance-oriented UI
 
-<strong>Stack:</strong> WordPress · Next.js · Analytics · UX
+**Stack:** WordPress · Next.js · Analytics · UX
 
 </td>
 <td width="50%" valign="top">
@@ -170,14 +164,12 @@ Landing page and CRM migration concept.
 
 AI-powered professional identity platform.
 
-<ul>
-<li>Career profile analysis</li>
-<li>Smart recommendations</li>
-<li>Resume/profile generation</li>
-<li>Privacy-first architecture</li>
-</ul>
+- Career profile analysis
+- Smart recommendations
+- Resume/profile generation
+- Privacy-first architecture
 
-<strong>Stack:</strong> Next.js · TypeScript · OpenAI · Tailwind · Zod
+**Stack:** Next.js · TypeScript · OpenAI · Tailwind · Zod
 
 </td>
 </tr>
@@ -189,15 +181,13 @@ AI-powered professional identity platform.
 
 Modern mobile-first eCommerce theme.
 
-<ul>
-<li>1C-Bitrix catalog</li>
-<li>Product cards</li>
-<li>Filters</li>
-<li>Mobile navigation</li>
-<li>Performance optimization</li>
-</ul>
+- 1C-Bitrix catalog
+- Product cards
+- Filters
+- Mobile navigation
+- Performance optimization
 
-<strong>Stack:</strong> Bitrix · PHP · JavaScript · SCSS · Swiper
+**Stack:** Bitrix · PHP · JavaScript · SCSS · Swiper
 
 </td>
 <td width="50%" valign="top">
@@ -206,15 +196,13 @@ Modern mobile-first eCommerce theme.
 
 Personal AI-first development framework.
 
-<ul>
-<li>Product thinking</li>
-<li>Architecture planning</li>
-<li>Cursor workflows</li>
-<li>Prompt systems</li>
-<li>Cost-effective AI development</li>
-</ul>
+- Product thinking
+- Architecture planning
+- Cursor workflows
+- Prompt systems
+- Cost-effective AI development
 
-<strong>Stack:</strong> ChatGPT · Cursor · Documentation · Engineering
+**Stack:** ChatGPT · Cursor · Documentation · Engineering
 
 </td>
 </tr>
@@ -225,24 +213,11 @@ Personal AI-first development framework.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=compilator&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=30D158&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilator&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=compilator&show_icons=true&theme=transparent&hide_border=true&title_color=0A84FF&icon_color=30D158&text_color=8B949E" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=compilator&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0A84FF&fire=FF9F0A&currStreakLabel=30D158" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=compilator&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/compilator/compilator/output/github-contribution-grid-snake-dark.svg" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilator&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=8B949E" />
 </p>
 
 ---
@@ -263,7 +238,7 @@ Personal AI-first development framework.
 
 ---
 
-## 🧩 What I Can Bring To A Team
+## 🧩 What I Bring To A Team
 
 <table>
 <tr>
@@ -282,7 +257,6 @@ I can decompose complex tasks into clear stages, build workflows and organize de
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -320,5 +294,5 @@ I value working products, clean iterations, measurable progress and honest commu
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30D158,50:0A84FF,100:7F5AF0&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30D158,50:0A84FF,100:7F5AF0&height=120&section=footer" />
 </p>
