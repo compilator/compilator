@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0A84FF,50:7F5AF0,100:30D158&text=Alexander%20Lim&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI-first%20Software%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20WordPress%20Expert&descSize=18&descAlignY=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A84FF,50:7F5AF0,100:30D158&text=Alexander%20Lim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-first%20Software%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20WordPress%20Expert&descSize=20&descAlignY=56" />
 </p>
 
 <p align="center">
@@ -213,11 +213,12 @@ Personal AI-first development framework.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=compilator&show_icons=true&theme=transparent&hide_border=true&title_color=0A84FF&icon_color=30D158&text_color=8B949E" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=compilator&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=compilator&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilator&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=8B949E" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=compilator&theme=github_dark" />
 </p>
 
 ---
@@ -230,8 +231,8 @@ Personal AI-first development framework.
 │  Building high-performance WordPress solutions             │
 │  Designing AI-assisted development workflows               │
 │  Improving React / Next.js / TypeScript skills             │
-│  Automating migration, parsing and import pipelines         │
-│  Turning business problems into working products            │
+│  Automating migration, parsing and import pipelines        │
+│  Turning business problems into working products           │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
