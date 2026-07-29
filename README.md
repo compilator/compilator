@@ -26,7 +26,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### AI-first Software Engineer & System Architect
+### Software Engineer & System Architect
 
 I build scalable web platforms, automation systems and AI-powered products.
 
